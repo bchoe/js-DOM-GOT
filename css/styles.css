@@ -1,0 +1,15 @@
+body {
+  background-color: red;
+  text-align: center;
+}
+
+#main {
+  display: inline;
+  width: 25%;
+}
+
+.crest {
+  display: none;
+  border: solid;
+  border-color: 3px;
+}
